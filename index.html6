@@ -1,0 +1,58 @@
+!DOCTYPE html>
+<html>
+<head>
+<title>Fashion N Style Hub</title>
+<style>
+body{
+font-family: Arial;
+background:#ffe6f0;
+text-align:center;
+}
+h1{
+color:#ff3399;
+}
+.menu{
+background:white;
+padding:15px;
+}
+.menu a{
+margin:10px;
+text-decoration:none;
+font-weight:bold;
+}
+.product{
+background:white;
+margin:20px;
+padding:20px;
+border-radius:10px;
+}
+button{
+background:#ff3399;
+color:white;
+border:none;
+padding:10px 20px;
+border-radius:5px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>👑 Fashion N Style Hub</h1>
+
+<div class="menu">
+<a href="#">Makeup</a>
+<a href="#">Jewellery</a>
+<a href="#">Handbags</a>
+<a href="#">Shoes</a>
+<a href="#">Accessories</a>
+</div>
+
+<div class="product">
+<h2>Trending Women's Fashion</h2>
+<p>Best fashion deals for women</p>
+<button>Shop Now</button>
+</div>
+
+</body>
+</html>
